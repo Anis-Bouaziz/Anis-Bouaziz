@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anis Bouaziz</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anis-bouaziz&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="anis-bouaziz" /></p>
+<p align='left'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anis-bouaziz&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="anis-bouaziz" /></p>
 
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anis-bouaziz&show_icons=true&locale=en&theme=tokyonight" alt="anis-bouaziz" /></p>
+<p align='right'>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anis-bouaziz&show_icons=true&locale=en&theme=tokyonight" alt="anis-bouaziz" /></p>
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anis-bouaziz&theme=tokyonight" alt="anis-bouaziz" /></p>
 
