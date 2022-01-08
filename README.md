@@ -1,6 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Anis Bouaziz</h1>
 <h3 align="center">A passionate software engineer</h3>
-<table style="boder:black">
+
+<table no-border>
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anis-bouaziz&theme=tokyonight" alt="anis-bouaziz" /></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=anis-bouaziz&show_icons=true&locale=en&theme=tokyonight" alt="anis-bouaziz" /></td>
