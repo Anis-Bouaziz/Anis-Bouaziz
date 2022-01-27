@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anis Bouaziz</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate Data scientist</h3>
 
 <table no-border>
   <tr>
